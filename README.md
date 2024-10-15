@@ -1,1 +1,7 @@
-# Diana-IPZ-4.01
+- lb1 - [URL](https://github.com/DianaLitvinova/lb1.git)
+- lb2 - [URL](https://github.com/DianaLitvinova/lb2.git)
+- lb3 - [URL](https://github.com/DianaLitvinova/lb3.git)
+- lb4 - [URL](https://github.com/DianaLitvinova/lb4.git)
+- lb5 - [URL](https://github.com/DianaLitvinova/lb5.git)
+- lb6 - [URL](https://github.com/DianaLitvinova/lb6.git)
+- lb7 - [URL](https://github.com/DianaLitvinova/lb7.git)
